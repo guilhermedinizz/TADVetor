@@ -6,7 +6,7 @@ Crie um projeto no NetBeans chamado TADVetor. <br />
 Crie uma classe chamada Vetor. <br />
 Preencha o corpo dos métodos isEmpty(), size(), get(), set(), add(), remove() e search. <br />
 Crie uma outra classe, para testar o Vetor. <br />
-**Você deverá executar as seguintes instruções:** <br />
+<br /> **Você deverá executar as seguintes instruções:** <br />
   - Inserir o nome “Álvaro” na posição 0 <br />
   - Inserir o nome “Pedro” na posição 1 <br />
   - Inserir o nome “Luiza” na posição 2 <br />
